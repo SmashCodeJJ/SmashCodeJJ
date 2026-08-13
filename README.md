@@ -2,7 +2,16 @@
 
 **Computer Vision · Deep Learning · NLP · Robotics**
 
-Penn State University graduate with hands-on experience building ML systems from research to deployment — including embedded robotics on NVIDIA Jetson, manufacturing defect detection, and NLP text classification.
+B.S. graduate of **Penn State University** and current **graduate student at the University of Pennsylvania (UPenn)**. Hands-on experience building ML systems from research to deployment — including embedded robotics on NVIDIA Jetson, manufacturing defect detection, and NLP text classification.
+
+---
+
+## 🎓 Education
+
+| | |
+|---|---|
+| **B.S.** | Pennsylvania State University |
+| **Graduate Student** | University of Pennsylvania (UPenn) |
 
 ---
 
@@ -48,7 +57,6 @@ Manufacturing QA system using SSD MobileNet V2 (TensorFlow) to detect washer sur
 ## 📫 Connect
 
 - **GitHub:** [SmashCodeJJ](https://github.com/SmashCodeJJ)
-- **LinkedIn:** [Add your LinkedIn URL](https://linkedin.com)
 - **Portfolio:** All projects include CI-verified results and runnable scripts
 
 ---

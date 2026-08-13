@@ -18,7 +18,7 @@ Embedded AI research on NVIDIA Jetson Nano: CPU/GPU benchmarking, YOLOv5 + Tenso
 
 ### 🧠 [Text Mining for Stress Analysis Using NLP Techniques](https://github.com/SmashCodeJJ/stress-analysis-nlp)
 
-Built an NLP pipeline to classify stress vs non-stress text from 3,000+ Reddit posts. Compared SVM, Naive Bayes, KNN, and Random Forest — **Naive Bayes achieved 72% accuracy with F1=0.76**.
+Built an NLP pipeline to classify stress vs non-stress text from 3,000+ Reddit posts. Compared SVM, Naive Bayes, KNN, and Random Forest — **Random Forest achieved 73% accuracy with F1=0.76** (verified via CI).
 
 `Python` `spaCy` `NLTK` `scikit-learn` `NLP`
 
@@ -48,7 +48,18 @@ Manufacturing QA system using SSD MobileNet V2 (TensorFlow) to detect washer sur
 ## 📫 Connect
 
 - **GitHub:** [SmashCodeJJ](https://github.com/SmashCodeJJ)
-- **Email:** *(add your email here)*
+- **LinkedIn:** [Add your LinkedIn URL](https://linkedin.com)
+- **Portfolio:** All projects include CI-verified results and runnable scripts
+
+---
+
+## 📌 Pinned Projects
+
+| Project | CI Status |
+|---------|-----------|
+| [Jetson-Nano](https://github.com/SmashCodeJJ/Jetson-Nano) | CPU benchmark + color tracking demo |
+| [stress-analysis-nlp](https://github.com/SmashCodeJJ/stress-analysis-nlp) | Full ML pipeline on 3,553 samples |
+| [metallic-surface-defect-detection](https://github.com/SmashCodeJJ/metallic-surface-defect-detection) | SSD MobileNet V2 + annotated dataset |
 
 ---
 

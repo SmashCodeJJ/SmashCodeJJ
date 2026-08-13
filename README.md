@@ -18,7 +18,7 @@ Embedded AI research on NVIDIA Jetson Nano: CPU/GPU benchmarking, YOLOv5 + Tenso
 
 ### 🧠 [Text Mining for Stress Analysis Using NLP Techniques](https://github.com/SmashCodeJJ/stress-analysis-nlp)
 
-Built an NLP pipeline to classify stress vs non-stress text from 3,000+ Reddit posts. Compared SVM, Naive Bayes, KNN, and Random Forest — **ComplementNB + TF-IDF achieved 73% accuracy with F1=0.77** (verified via CI).
+Built an NLP pipeline to classify stress vs non-stress text from 3,500+ Reddit posts. Improved with TF-IDF bi-grams, tri-gram Random Forest, and GridSearchCV — **73% accuracy, stress F1=0.76, 82% recall** (CI verified).
 
 `Python` `spaCy` `NLTK` `scikit-learn` `NLP`
 
@@ -38,7 +38,7 @@ Manufacturing QA system using SSD MobileNet V2 (TensorFlow) to detect washer sur
 |------|-------------|
 | **Deep Learning** | PyTorch, TensorFlow, TensorRT, Transfer Learning |
 | **Computer Vision** | OpenCV, YOLOv5, SSD MobileNet, Object Detection |
-| **NLP** | spaCy, NLTK, scikit-learn, CountVectorizer |
+| **NLP** | spaCy, NLTK, scikit-learn, TF-IDF, GridSearchCV |
 | **Robotics** | ROS, NVIDIA Jetson, Dobot SDK, JetBot |
 | **Languages** | Python, SQL |
 | **Tools** | Jupyter, Git, Docker, Linux |

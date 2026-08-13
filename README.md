@@ -18,7 +18,7 @@ Embedded AI research on NVIDIA Jetson Nano: CPU/GPU benchmarking, YOLOv5 + Tenso
 
 ### 🧠 [Text Mining for Stress Analysis Using NLP Techniques](https://github.com/SmashCodeJJ/stress-analysis-nlp)
 
-Built an NLP pipeline to classify stress vs non-stress text from 3,500+ Reddit posts. Improved with TF-IDF bi-grams, tri-gram Random Forest, and GridSearchCV — **73% accuracy, stress F1=0.76, 82% recall** (CI verified).
+Built an NLP pipeline to classify stress vs non-stress text from 3,500+ Reddit posts. Improved with tuned ComplementNB + TF-IDF bi-grams and multi-model comparison — **73% accuracy, stress F1=0.77, 85% recall** (CI verified).
 
 `Python` `spaCy` `NLTK` `scikit-learn` `NLP`
 

@@ -18,7 +18,7 @@ Embedded AI research on NVIDIA Jetson Nano: CPU/GPU benchmarking, YOLOv5 + Tenso
 
 ### 🧠 [Text Mining for Stress Analysis Using NLP Techniques](https://github.com/SmashCodeJJ/stress-analysis-nlp)
 
-Built an NLP pipeline to classify stress vs non-stress text from 3,000+ Reddit posts. Compared SVM, Naive Bayes, KNN, and Random Forest — **Random Forest achieved 73% accuracy with F1=0.76** (verified via CI).
+Built an NLP pipeline to classify stress vs non-stress text from 3,000+ Reddit posts. Compared SVM, Naive Bayes, KNN, and Random Forest — **ComplementNB + TF-IDF achieved 73% accuracy with F1=0.77** (verified via CI).
 
 `Python` `spaCy` `NLTK` `scikit-learn` `NLP`
 
